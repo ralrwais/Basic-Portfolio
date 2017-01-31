@@ -1,0 +1,13 @@
+body 	
+	{	
+		margin: 0;
+		padding: 0;
+
+	}
+.nav 	
+	{ 
+		font-family: 'Georgia', Times, serif;
+		background-color: #ffffff;
+		list
+
+	}
