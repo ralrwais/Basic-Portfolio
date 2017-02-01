@@ -99,8 +99,9 @@ body
 		color: #777777;
 		text-align: left;
 		display: inline;
-		height: 450px;
+		height: 650px;
 		width: 500px;
+		margin-bottom: 50px;
 
 	}
 
@@ -136,6 +137,9 @@ h2
 		font-size: 25px;
 		font-family: 'Georgia', Times, serif;
 		display: inline;
+		clear: both;
+
+
 
 	}
 
@@ -177,6 +181,70 @@ h2
 
 
 	}
+.box1 > img 	
+	{	height: 150px;
+		width: 200px;
+		position: absolute;
+		float: left;
+		margin-bottom: 700px;
+		margin-left: 30px;
+		display: inline;
+
+	}
+
+.box2 > img
+	{	
+		height: 150px;
+		width: 200px;
+		position: absolute;
+		float: left;
+		margin-bottom: 500px;
+		margin-left: 250px;
+		display: inline;
+
+
+	}
+
+.box3 > img
+	
+	{	height: 150px;
+		width: 200px;
+		position: absolute;
+		display: inline;
+		clear: both;
+		margin-top: 170px;
+		float: left;
+		margin-left: 30px;
+
+
+
+	}
+
+.box4 > img
+	{	
+		height: 150px;
+		width: 200px;
+		position: absolute;
+		display: inline;
+		clear: both;
+		margin-top: 170px;
+		float: left;
+		margin-left: 250px;
+
+	}
+
+.box5 > img 
+	{	
+		height: 150px;
+		width: 200px;
+		position: absolute;
+		display: inline;
+		clear: both;
+		margin-top: 350px;
+		float: left;
+		margin-left: 30px;
+
+	}
 
 .footer
 	{	border-top: solid 10px #40E0D0;
@@ -187,9 +255,10 @@ h2
 		text-align: center;
 		color: #cccccc;
 		background-color: #777777;
-		display: inline-block;
+		display: inline;
 		margin-bottom: 0px;
 		padding-top: 50px;
 		margin-right: 0px;
+		margin-top: 50px;
 
 		}
